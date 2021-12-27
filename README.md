@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mortuusfelix.github.io/rsschool-cv/cv

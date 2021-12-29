@@ -8,7 +8,7 @@
 - [**My GitHub**](https://github.com/MortuusFelix)
 - [**My Linkedin**](https://www.linkedin.com/in/roman-odarenko-04ba3b229/)
 ## **About me**
-I am 24 years old. 
+I am 24 years old.
 ## **Skills**
 - HTML
 - CSS

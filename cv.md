@@ -1,6 +1,6 @@
 # **Roman Odarenko**
 ## Frontend Developer  
-![Моё фото](https://i.yapx.ru/P09M4.png)
+![Моё фото](https://i.yapx.ru/P09M4.png ПОПРАВЬ ПУТЬ .\ASSETS\IMG\1.PNG??
 ## **Contact information**
 - **My Discord:** MortuusFelix#8061
 - **Telegram:** MortuusFelix

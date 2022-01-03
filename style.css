@@ -1,1 +1,109 @@
-/* style is under construction */
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth; 
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header{
+    border: 3px solid black;
+    background: linear-gradient(to top left, #A5A5A5, #A3D69E);
+    font-weight: bold;
+    font-size: 20px;
+}
+.photo{
+    float: left;
+    margin: -45px 0 50px 30px;
+}
+
+.nav-ul{
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+}
+
+.nav-list {
+    list-style: none;
+  } 
+
+.nav-item{
+    padding: 0 30px;
+    line-height: 50px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #686868;
+    transition: color 0.7s;
+}
+
+.nav-item:hover {
+    color: black;
+}
+
+h1,h2 {
+    display: flex;
+    justify-content: right;
+    margin: 10px 30px;
+    letter-spacing: 2px;
+}
+
+main {
+    border: 3px solid black;
+    line-height: 1.5;
+    background: linear-gradient(to top left, #A3D69E, #A0A0A0);
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h3{
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+section {
+    width: 33%;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 24px;
+    border-bottom: 2px solid black;
+}
+
+footer {
+    border: 3px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    align-items: center;
+    background: linear-gradient(to bottom right, #A3D69E, #A0A0A0);
+    font-weight: bold;
+    font-size: 22px;
+    padding-top: 10px;
+}
+
+.rsschool {
+    width: 50px;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.visible-link {
+    color: #686868;
+    transition: color 0.7s;
+}
+
+.visible-link:hover {
+    color: black;
+}

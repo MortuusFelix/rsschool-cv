@@ -1,1 +1,1 @@
-https://mortuusfelix.github.io/rsschool-cv/
+https://mortuusfelix.github.io/rsschool-cv/ 

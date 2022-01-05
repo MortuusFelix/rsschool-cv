@@ -14,7 +14,7 @@ body {
 
 header{
     border: 3px solid black;
-    background: linear-gradient(to top left, #A5A5A5, #A3D69E);
+    background: linear-gradient(to top left, white, #A3D69E);
     font-weight: bold;
     font-size: 20px;
 }
@@ -56,13 +56,14 @@ h1,h2 {
 main {
     border: 3px solid black;
     line-height: 1.5;
-    background: linear-gradient(to top left, #A3D69E, #A0A0A0);
+    background: linear-gradient(to top left, #A3D69E, white);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
-.main-container {
-    display: flex;
-    flex-wrap: wrap;
-}
+
 
 h3{
     letter-spacing: 3px;
@@ -70,21 +71,18 @@ h3{
 }
 
 section {
-    width: 33%;
-    margin-left: 250px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    font-size: 24px;
-    border-bottom: 2px solid black;
+    width: 30%;
+    margin-left: 10%;
+    font-size: 20px;
 }
 
 footer {
     border: 3px solid black;
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-evenly;
+    justify-content:space-around;
     align-items: center;
-    background: linear-gradient(to bottom right, #A3D69E, #A0A0A0);
+    background: linear-gradient(to bottom right, #A3D69E, white);
     font-weight: bold;
     font-size: 22px;
     padding-top: 10px;
